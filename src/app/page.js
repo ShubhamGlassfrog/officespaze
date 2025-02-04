@@ -23,7 +23,7 @@ export default function page() {
       <img
         src="/cospacelogo2.png"
         alt="Office"
-        className="w-full h-12 md:h-20 mb-4"
+        className="w-auto h-12 md:h-20 mb-4"
       />
     </div>
 
